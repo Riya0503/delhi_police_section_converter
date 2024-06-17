@@ -98,7 +98,19 @@ input:focus {
     padding: 30px;
     border-radius: 6px;
     background: #ffffffbf;
-    margin-top: 60px;
+    margin: 60px 10px;
+}
+
+@media (max-width: 800px) {
+    body{
+        background-size: 90%;
+    }
+    h1{
+        font-size: 30px;
+    }
+  .blk {
+    flex-direction: column;
+  }
 }
 
 

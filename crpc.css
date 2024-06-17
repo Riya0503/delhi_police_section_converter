@@ -1,0 +1,101 @@
+
+body {
+     margin: 0;
+    padding: 0;
+    background-color: rgb(229,230,232); 
+    text-align: center;
+    background-image: url('delhi_police.png') ;
+    background-size: 30% ;
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-blend-mode: soft-light;
+    
+     /*saturation , screen , luminous , soft light*/
+  
+}
+
+button {
+    background-color: rgba(0,0,0,0);
+    outline: none;
+}
+h1 {
+    margin-bottom: 10px;
+    font-size: 40;
+    /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 26;
+    font-weight: bold;
+    font-style: italic;
+
+}
+h3 {
+    
+    font-style: normal;
+}
+
+h4 {
+    
+    font-size: 16;
+    font-weight: bold;
+    font-style: normal;
+    
+}
+
+
+.btn {
+    
+    width: 80px;
+    height: 40px;
+    border-radius: 6px;
+    padding: 0px;
+    font-size: 16px;
+    
+}
+
+
+
+form {
+    
+    padding: 2px;
+  
+    
+}
+
+form p {
+    margin-bottom: 1px;
+}
+
+form p:nth-child(1){
+    margin-top: 0;
+}
+
+.panel {
+    margin-top: 5px;
+    float: none;
+    padding-top: 15px;
+}
+
+@media (min-width:500px) {
+    .panel {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 1024px) {
+    .panel {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 22;
+        font-weight: bold;
+        font-style: italic;
+      
+    }
+}

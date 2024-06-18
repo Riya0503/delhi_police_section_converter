@@ -22,10 +22,11 @@ body{
  }
 
 h1{
-  margin: 0;
-  padding: 20px 0;
-  background-color: rgb(187,0,0);
-  color: rgb(255,255,255);
+    font-size: 40;
+    margin: 0;
+    padding: 20px 0;
+    background-color: rgb(187,0,0);
+    color: rgb(255,255,255);
 }
 
 h2{
@@ -35,6 +36,11 @@ h2{
 
 h3{
     color: #4b505d;
+}
+
+h4{
+    font-size: 16;
+
 }
 
 
@@ -106,11 +112,24 @@ input:focus {
         background-size: 90%;
     }
     h1{
-        font-size: 30px;
+        font-size: 28px;
+    }
+    h2{
+        font-size: 26px;
+    }
+    h3{
+        font-size: 24px;
     }
   .blk {
-    flex-direction: column;
-  }
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    .btn{
+        height: 180px;
+    }
+    input{
+        width: 80%;
+    }
 }
 
 

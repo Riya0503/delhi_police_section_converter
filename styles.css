@@ -63,7 +63,7 @@ input:focus {
 }
 
 
- .btn{
+.btn{
     margin: 30px;
     padding: 20px;
     width: 300px;
@@ -76,12 +76,12 @@ input:focus {
     font-style: oblique;
     font-weight: bolder;
     background-color: rgb(0,18,60);
- }
- .btn:hover{
+}
+.btn:hover{
     background-color: rgb(11 52 148);
- }
+}
 
- .goBack{
+.goBack{
     display: flex;
     padding: 10px;
     margin: 10px 10px 0 auto;
@@ -90,14 +90,14 @@ input:focus {
     border-radius: 4px;
     color: white;
     font-weight: bold;
- }
+}
 
- .blk{
-   align-items: center; 
-   margin-top: 120px;
-   display: flex;
-   justify-content: center;
- }
+.blk{
+    align-items: center; 
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+}
 
 .resultCont {
     border: 2px solid grey;

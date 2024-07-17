@@ -85,20 +85,20 @@ function calculate() {
     (2) It shall come into force on such date as the Central Government may, by notification
     in the Official Gazette, appoint, and different dates may be appointed for different provisions
     of this Sanhita.` ;
-    else if (wt==='53a' ||wt==='53A' ||wt==='157' ||wt==='158'||wt==='236' ||wt==='237'||wt==='238'||wt==='239'||wt==='240'||wt==='241'||wt==='242'||wt==='243' ||wt==='246' ||wt==='247'||wt==='248' ||wt==='249'||wt==='250'||wt==='251'||wt==='252'||wt==='253'||wt==='254'||wt==='258' ||wt==='264' ||wt==='265'||wt==='266' ||wt==='267'||wt==='377'||wt==='384'||wt==='385'||wt==='386'||wt==='387'||wt==='388' ||wt==='389' ||wt==='396'||wt==='406' ||wt==='407'||wt==='408'||wt==='409'||wt==='411'||wt==='412'||wt==='413'||wt==='414' ||wt==='417' ||wt==='418'||wt==='419' ||wt==='420'||wt==='426'||wt==='427'||wt==='433'||wt==='434'||wt==='435'||wt==='436' ||wt==='437' ||wt==='438'||wt==='440' ||wt==='443'||wt==='444'||wt==='446'||wt==='447'||wt==='453'||wt==='454'||wt==='455' ||wt==='456' ||wt==='457'||wt==='458' ||wt==='459'||wt==='460'||wt==='462'||wt==='465'||wt==='468'||wt==='469'||wt==='471' ||wt==='472' ||wt==='476'||wt==='478' ||wt==='480'||wt==='481'||wt==='482'||wt==='484'||wt==='490'||wt==='495'||wt==='497') measure = "REMOVED";
+    else if (wt==='53a' ||wt==='53A' ||wt==='236' ||wt==='237'||wt==='238'||wt==='240'||wt==='241'||wt==='242' ||wt==='246' ||wt==='247'||wt==='248' ||wt==='249'||wt==='250'||wt==='251'||wt==='252'||wt==='253'||wt==='254'||wt==='258' ||wt==='264' ||wt==='265'||wt==='266' ||wt==='267'||wt==='377'||wt==='387' ||wt==='444'||wt==='446'||wt==='453'||wt==='454'||wt==='455' ||wt==='456' ||wt==='457'||wt==='458' ||wt==='459'||wt==='460'||wt==='472' ||wt==='478' ||wt==='480'||wt==='490'||wt==='497') measure = "REMOVED";
 	else if (wt==="2") measure = "1(3) Every person shall be liable to punishment under this Sanhita and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India";
     else if (wt ==='3') measure = "1(4) Any person liable, by any law for the time being in force in India, to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Sanhita for any act committed beyond India in the same manner as if such act had been committed within India.";
     else if (wt==='4') measure = "1(5) The provisions of this Sanhita shall also apply to any offence committed by— (a) any citizen of India in any place without and beyond India; (b) any person on any ship or aircraft registered in India wherever it may be; (c) any person in any place without and beyond India committing offence targeting a computer resource located in India. Explanation.—In this section, the word “offence” includes every act committed outside India which, if committed in India, would be punishable under this Sanhita. Illustration. A, who is a citizen of India, commits a murder in any place without and beyond India. He can be tried and convicted of murder in any place in India in which he may be found.";
-    else if (wt==='5') measure = "REMOVED";
-    else if (wt==='6') measure = "1(6) Nothing in this Sanhita shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government of India or the provisions of any special or local law";
-    else if (wt==='7') measure = "REMOVED";
+    else if (wt==='5') measure = "1(6) Nothing in this Sanhita shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government of India or the provisions of any special or local law.";
+    else if (wt==='6') measure = `3(1) Throughout this Sanhita every definition of an offence, every penal provision, and every Illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled “General Exceptions”, though those exceptions are not repeated in such definition, penal provision, or Illustration. Illustrations. (a) The sections in this Sanhita, which contain definitions of offences, do not express that a child under seven years of age cannot commit such offences; but the definitions are to be understood subject to the general exception which provides that nothing shall be an offence which is done by a child under seven years of age. (b) A, a police officer, without warrant, apprehends Z, who has committed murder. Here A is not guilty of the offence of wrongful confinement; for he was bound by law to apprehend Z, and therefore the case falls within the general exception which provides that “nothing is an offence which is done by a person who is bound by law to do it”.`;
+    else if (wt==='7') measure = "3(2) Every expression which is explained in any Part of this Sanhita, is used in every Part of this Sanhita in conformity with the explanation.";
     else if (wt==='8') measure = "2(10) “gender”.—The pronoun “he” and its derivatives are used of any person,whether male, female or transgender";
     else if (wt==='9') measure = "2(22) “number”.—Unless the contrary appears from the context, words importing the singular number include the plural number, and words importing the plural number include the singular number";
     else if (wt==='10') measure = "2(19)  “man” means male human being of any age; 2(35) “woman” means a female human being of any age;";
     else if (wt==='11') measure = "2(26)   “person” includes any company or association or body of persons, whether incorporated or not;";
     else if (wt==='12') measure = "2(27)   “public” includes any class of the public or any community" ;
     else if (wt==='13') measure = "REMOVED" ;
-    else if (wt==='14') measure =` 2(28)  “public servant” means a person falling under any of the descriptions, namely:— (a) every commissioned officer in the Army, Navy or Air Force; (b) every Judge including any person empowered by law to discharge, whether by himself or as a member of any body of persons, any adjudicatory functions; (c) every officer of a Court including a liquidator, receiver or commissioner whose duty it is, as such officer, to investigate or report on any matter of law or fact, or to make, authenticate, or keep any document, or to take charge or dispose of any property, or to execute any judicial process, or to administer any oath, or to interpret, or to preserve order in the Court, and every person specially authorised by a Court to perform any of such duties; (d) every assessor or member of a panchayat assisting a Court or public servant; (e) every arbitrator or other person to whom any cause or matter has been referred for decision or report by any Court, or by any other competent public authority; (f) every person who holds any office by virtue of which he is empowered to place or keep any person in confinement; (g) every officer of the Government whose duty it is, as such officer, to prevent offences, to give information of offences, to bring offenders to justice, or to protect the public health, safety or convenience; (h) every officer whose duty it is, as such officer, to take, receive, keep or expend any property on behalf of the Government, or to make any survey, assessment or contract on behalf of the Government, or to execute any revenue-process, or to investigate, or to report, on any matter affecting the pecuniary interests of the Government, or to make, authenticate or keep any document relating to the pecuniary interests of the Government, or to prevent the infraction of any law for the protection of the pecuniary interests of the Government; (i) every officer whose duty it is, as such officer, to take, receive, keep or expend any property, to make any survey or assessment or to levy any rate or tax for any secular common purpose of any village, town or district, or to make, authenticate or keep any document for the ascertaining of the rights of the people of any village, town or district; (j) every person who holds any office by virtue of which he is empowered to prepare, publish, maintain or revise an electoral roll or to conduct an election or part of an election; (k) every person— (i) in the service or pay of the Government or remunerated by fees or commission for the performance of any public duty by the Government; (ii) in the service or pay of a local authority as defined in clause (31) of section 3 of the General Clauses Act, 1897, a corporation established by or under a Central or State Act or a Government company as defined in clause (45) of section 2 of the Companies Act, 2013. Explanation.— (a) persons falling under any of the descriptions made in this clause are public servants, whether appointed by the Government or not; (b) every person who is in actual possession of the situation of a public servant, whatever legal defect there may be in his right to hold that situation is a public servant; (c) “election” means an election for the purpose of selecting members of any legislative, municipal or other public authority, of whatever character, the method of selection to which is by, or under any law for the time being in force. Illustration. A Municipal Commissioner is a public servant`;
+    else if (wt==='14') measure = "REMOVED" ;
     else if (wt==='15') measure = "REMOVED";
     else if (wt==='16') measure = "REMOVED";
     else if (wt==='17') measure = " 2(12) “Government” means the Central Government or a State Government;";
@@ -117,7 +117,7 @@ function calculate() {
     else if (wt==='29A' || wt ==='29a') measure = "2(39)  words and expressions used but not defined in this Sanhita but defined in the Information Technology Act, 2000 and the Bharatiya Nagarik Suraksha Sanhita, 2023 shall have the meanings respectively assigned to them in that Act and Sanhita";
     else if (wt==='30') measure = "2(31)  “valuable security” means a document which is, or purports to be, a document whereby any legal right is created, extended, transferred, restricted, extinguished or released, or whereby any person acknowledges that he lies under legal liability, or has not a certain legal right. Illustration. A writes his name on the back of a bill of exchange. As the effect of this endorsement is to transfer the right to the bill to any person who may become the lawful holder of it, the endorsement is a “valuable security”;";
     else if (wt==='31') measure = "2(34)  “will” means any testamentary document";
-    else if (wt==='32') measure = "2(1)  “act” denotes as well a series of acts as a single act ; 3(4)    In every Part of this Sanhita, except where a contrary intention appears from the context, words which refer to acts done extend also to illegal omissions.";
+    else if (wt==='32') measure = "3(4) In every Part of this Sanhita, except where a contrary intention appears from the context, words which refer to acts done extend also to illegal omissions.";
     else if (wt==='33') measure = `2(1) “act” denotes as well a series of acts as a single act;`;
     else if (wt==='34') measure = "3(5) When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone";
     else if (wt==='35') measure = "3(6)  Whenever an act, which is criminal only by reason of its being done with a criminal knowledge or intention, is done by several persons, each of such persons who joins in the act with such knowledge or intention is liable for the act in the same manner as if the act were done by him alone with that knowledge or intention.";
@@ -283,7 +283,8 @@ function calculate() {
     (b) four months when the amount of the fine does not exceed ten thousand
     rupees; and
     (c) one year in any other case.`;
-    else if (wt==='67' || wt==='68' ||wt==='69') measure = `8(6) (a) The imprisonment which is imposed in default of payment of a fine shall
+    else if (wt==='67') measure = `8(5) If the offence is punishable with fine or community service, the imprisonment which the Court imposes in default of payment of the fine or in default of community service shall be simple, and the term for which the Court directs the offender to be imprisoned, in default of payment of fine or in default of community service, shall not exceed,— (a) two months when the amount of the fine does not exceed five thousand rupees; (b) four months when the amount of the fine does not exceed ten thousand rupees; and (c) one year in any other case.`;
+    else if ( wt==='68' ||wt==='69') measure = `8(6) (a) The imprisonment which is imposed in default of payment of a fine shall
     terminate whenever that fine is either paid or levied by process of law;
     (b) If, before the expiration of the term of imprisonment fixed in default of payment,
     such a proportion of the fine be paid or levied that the term of imprisonment suffered in
@@ -1417,7 +1418,9 @@ function calculate() {
     or engages or offers to go armed, with any deadly weapon or with anything which used as a
     weapon of offence is likely to cause death, shall be punished with imprisonment of either
     description for a term which may extend to two years, or with fine, or with both.`;
-    else if (wt==='142' || wt==='149') measure = `190. Every member
+    else if (wt==='142') measure = `189. (1) An assembly of five or more persons is designated an “unlawful assembly”, if the common object of the persons composing that assembly is— (a) to overawe by criminal force, or show of criminal force, the Central Government or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or (b) to resist the execution of any law, or of any legal process; or (c) to commit any mischief or criminal trespass, or other offence; or (d) by means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or (e) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do. Explanation.—An assembly which was not unlawful when it assembled, may subsequently become an unlawful assembly. (2) Whoever, being aware of facts which render any assembly an unlawful assembly, intentionally joins that assembly, or continues in it, is said to be a member of an unlawful assembly and such member shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (3) Whoever joins or continues in an unlawful assembly, knowing that such unlawful assembly has been commanded in the manner prescribed by law to disperse, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+    (4) Whoever, being armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (5) Whoever knowingly joins or continues in any assembly of five or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. Explanation.—If the assembly is an unlawful assembly within the meaning of sub-section (1), the offender shall be punishable under sub-section (3). (6) Whoever hires or engages, or employs, or promotes, or connives at the hiring, engagement or employment of any person to join or become a member of any unlawful assembly, shall be punishable as a member of such unlawful assembly, and for any offence which may be committed by any such person as a member of such unlawful assembly in pursuance of such hiring, engagement or employment, in the same manner as if he had been a member of such unlawful assembly, or himself had committed such offence. (7) Whoever harbours, receives or assembles, in any house or premises in his occupation or charge, or under his control any persons knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (8) Whoever is engaged, or hired, or offers or attempts to be hired or engaged, to do or assist in doing any of the acts specified in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (9) Whoever, being so engaged or hired as referred to in sub-section (8), goes armed, or engages or offers to go armed, with any deadly weapon or with anything which used as a weapon of offence is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.`;
+    else if ( wt==='149') measure = `190. Every member
     of unlawful
     assembly guilty
     of offence
@@ -1535,7 +1538,8 @@ function calculate() {
     or in any assembly engaged in the performance of religious worship or religious ceremonies,
     shall be punished with imprisonment which may extend to five years and shall also be liable
     to fine`;
-    else if (wt==='154' || wt==='166') measure = `198. Public servant
+    else if (wt==='154') measure  =`193. (1) Whenever any unlawful assembly or riot takes place, the owner or occupier of the land upon which such unlawful assembly is held, or such riot is committed, and any person having or claiming an interest in such land, shall be punishable with fine not exceeding one thousand rupees, if he or his agent or manager, knowing that such offence is being or has been committed, or having reason to believe it is likely to be committed, do not give the earliest notice thereof in his or their power to the officer in charge at the nearest police station, and do not, in the case of his or their having reason to believe that it was about to be committed, use all lawful means in his or their power to prevent it and, in the event of its taking place, do not use all lawful means in his or their power to disperse or suppress the riot or unlawful assembly. (2) Whenever a riot is committed for the benefit or on behalf of any person who is the owner or occupier of any land respecting which such riot takes place or who claims any interest in such land, or in the subject of any dispute which gave rise to the riot, or who has accepted or derived any benefit therefrom, such person shall be punishable with fine, if he or his agent or manager, having reason to believe that such riot was likely to be committed or that the unlawful assembly by which such riot was committed was likely to be held, shall not respectively use all lawful means in his or their power to prevent such assembly or riot from taking place, and for suppressing and dispersing the same. (3) Whenever a riot is committed for the benefit or on behalf of any person who is the owner or occupier of any land respecting which such riot takes place, or who claims any interest in such land, or in the subject of any dispute which gave rise to the riot, or who has accepted or derived any benefit therefrom, the agent or manager of such person shall be punishable with fine, if such agent or manager, having reason to believe that such riot was likely to be committed, or that the unlawful assembly by which such riot was committed was likely to be held, shall not use all lawful means in his power to prevent such riot or assembly from taking place and for suppressing and dispersing the same.`;
+    else if (wt==='166') measure = `198. Public servant
     disobeying law,
     with intent to
     cause injury to
@@ -1583,6 +1587,8 @@ function calculate() {
     likely to be held, shall not use all lawful means in his power to prevent such riot or assembly
     from taking place and for suppressing and dispersing the same.`;
    
+    else if (wt === '157' || wt == '158') measure = `189. (1) An assembly of five or more persons is designated an “unlawful assembly”, if the common object of the persons composing that assembly is— (a) to overawe by criminal force, or show of criminal force, the Central Government or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or (b) to resist the execution of any law, or of any legal process; or (c) to commit any mischief or criminal trespass, or other offence; or (d) by means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or (e) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do. Explanation.—An assembly which was not unlawful when it assembled, may subsequently become an unlawful assembly. (2) Whoever, being aware of facts which render any assembly an unlawful assembly, intentionally joins that assembly, or continues in it, is said to be a member of an unlawful assembly and such member shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (3) Whoever joins or continues in an unlawful assembly, knowing that such unlawful assembly has been commanded in the manner prescribed by law to disperse, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
+(4) Whoever, being armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (5) Whoever knowingly joins or continues in any assembly of five or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. Explanation.—If the assembly is an unlawful assembly within the meaning of sub-section (1), the offender shall be punishable under sub-section (3). (6) Whoever hires or engages, or employs, or promotes, or connives at the hiring, engagement or employment of any person to join or become a member of any unlawful assembly, shall be punishable as a member of such unlawful assembly, and for any offence which may be committed by any such person as a member of such unlawful assembly in pursuance of such hiring, engagement or employment, in the same manner as if he had been a member of such unlawful assembly, or himself had committed such offence. (7) Whoever harbours, receives or assembles, in any house or premises in his occupation or charge, or under his control any persons knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (8) Whoever is engaged, or hired, or offers or attempts to be hired or engaged, to do or assist in doing any of the acts specified in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (9) Whoever, being so engaged or hired as referred to in sub-section (8), goes armed, or engages or offers to go armed, with any deadly weapon or with anything which used as a weapon of offence is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.`;
     else if (wt==='159' || wt==='160') measure = `194. Affray. :  (1) When two or more persons, by fighting in a public place, disturb the public
     peace, they are said to commit an affray.
     (2) Whoever commits an affray, shall be punished with imprisonment of either description
@@ -2774,6 +2780,9 @@ function calculate() {
     person is charged with an offence under sub-section (1) or on any other document used or
     distributed in connection with that document it may, until the contrary is proved, be presumed
     that the person caused the document to be made.`;
+    else if ( wt === '239' || wt === '240' || wt === '241' || wt === '251' || wt === '258' || wt==='489b' || wt==='489B' ||wt==='260') 
+        measure = `179. Whoever imports or exports, or sells or delivers to, or buys or receives from, any other person, or otherwise traffics or uses as genuine, any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.`;
+    else if (wt === '242' || wt === '243') measure = `180. Whoever has in his possession any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit and intending to use the same as genuine or that it may be used as genuine, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. Explanation.—If a person establishes the possession of the forged or counterfeit coin, stamp, currency-note or bank-note to be from a lawful source, it shall not constitute an offence under this section.`;
     else if (wt==='244') measure = `187. Person
     employed in
     mint causing
@@ -2793,6 +2802,9 @@ function calculate() {
     from mint. : Whoever, without lawful authority, takes out of any mint, lawfully established in
     India, any coining tool or instrument, shall be punished with imprisonment of either description
     for a term which may extend to seven years, and shall also be liable to fine.`;
+    else if (wt === '246' || wt === '247' || wt === '248' || wt === '249' || wt === '250') measure = `178. Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any coin, stamp issued by Government for the purpose of revenue, currency-note or bank-note, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. Explanation.—For the purposes of this Chapter,— (1) the expression “bank-note” means a promissory note or engagement for the payment of money to bearer on demand issued by any person carrying on the business of banking in any part of the world, or issued by or under the authority of any State or Sovereign Power, and intended to be used as equivalent to, or as a substitute for money; (2) “coin” shall have the same meaning as assigned to it in  section 2 of the Coinage Act, 2011 and includes metal used for the time being as money and is stamped and issued by or under the authority of any State or Sovereign Power intended to be so used; (3) a person commits the offence of  “counterfeiting Government stamp” who counterfeits by causing a genuine stamp of one denomination to appear like a genuine stamp of a different denomination; (4) a person commits the offence of counterfeiting coin who intending to practise deception, or knowing it to be likely that deception will thereby be practised, causes a genuine coin to appear like a different coin; and (5) the offence of  “counterfeiting coin” includes diminishing the weight or alteration of the composition, or alteration of the appearance of the coin.`;
+    // else if (wt === '251') measure = `179. Whoever imports or exports, or sells or delivers to, or buys or receives from, any other person, or otherwise traffics or uses as genuine, any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.`;
+    else if (wt === '252' || wt === '253') measure = `180. Whoever has in his possession any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit and intending to use the same as genuine or that it may be used as genuine, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. Explanation.—If a person establishes the possession of the forged or counterfeit coin, stamp, currency-note or bank-note to be from a lawful source, it shall not constitute an offence under this section.`;
     else if (wt==='261') measure = `183. Effacing
     writing from
     substance
@@ -3639,31 +3651,7 @@ deformity or permanent vegetative state shall not be required to be irreversible
     such person, or with intent to commit or to facilitate the commission of an offence or knowing
     it to be likely that he will thereby cause hurt, shall be punished with imprisonment of either
     description for a term which may extend to ten years, and shall also be liable to fine.`;
-    else if (wt==='329') measure = `120. Voluntarily
-    causing hurt or
-    grievous hurt
-    to extort
-    confession, or
-    to compel
-    restoration of
-    property.:  (1) Whoever voluntarily causes hurt for the purpose of extorting from the sufferer
-    or from any person interested in the sufferer, any confession or any information which may
-    lead to the detection of an offence or misconduct, or for the purpose of constraining the
-    sufferer or any person interested in the sufferer to restore or to cause the restoration of any
-    property or valuable security or to satisfy any claim or demand, or to give information which
-    may lead to the restoration of any property or valuable security, shall be punished with
-    imprisonment of either description for a term which may extend to seven years, and shall also
-    be liable to fine . Illustrations.
-    (a) A, a police officer, tortures Z in order to induce Z to confess that he committed a
-    crime. A is guilty of an offence under this section.
-    (b) A, a police officer, tortures B to induce him to point out where certain stolen
-    property is deposited. A is guilty of an offence under this section.
-    (c) A, a revenue officer, tortures Z in order to compel him to pay certain arrears of
-    revenue due from Z. A is guilty of an offence under this section.
-    (2) Whoever voluntarily causes grievous hurt for any purpose referred to in
-    sub-section (1), shall be punished with imprisonment of either description for a term which
-    may extend to ten years, and shall also be liable to fine`;
-
+    else if (wt==='329') measure = `119. (1) Whoever voluntarily causes hurt for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security, or of constraining the sufferer or any person interested in such sufferer to do anything which is illegal or which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (2) Whoever voluntarily causes grievous hurt for any purpose referred to in sub-section (1), shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.`;
     else if (wt==='330') measure = `120. Voluntarily
     causing hurt or
     grievous hurt
@@ -3810,7 +3798,7 @@ deformity or permanent vegetative state shall not be required to be irreversible
     (b) where grievous hurt is caused, shall be punished with imprisonment of
     either description for a term which may extend to three years, or with fine which may
     extend to ten thousand rupees, or with both`;
-    else if (wt==='338') measure = "REMOVED";
+    else if (wt==='338') measure = `125. Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to three months or with fine which may extend to two thousand five hundred rupees, or with both, but— (a) where hurt is caused, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both; (b) where grievous hurt is caused, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both.`;
     else if (wt==='339') measure = `126. Wrongful
     restraint : (1) Whoever voluntarily obstructs any person so as to prevent that person from
     proceeding in any direction in which that person has a right to proceed, is said wrongfully to
@@ -3872,7 +3860,13 @@ deformity or permanent vegetative state shall not be required to be irreversible
     either description for a term which may extend to one year, or with fine which may extend to
     five thousand rupees, or with both`;
 
-    else if (wt==='341'||wt==='343'||wt==='344'||wt==='345'||wt==='346'||wt==='347'||wt==='360' ||wt==='361' ||wt==='363'|| wt==='365' ||wt==='369'||wt==='366a' ||wt==='366A') measure = "REMOVED";
+    else if (wt === '341') measure = `126. (1) Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person. Exception.—The obstruction of a private way over land or water which a person in good faith believes himself to have a lawful right to obstruct, is not an offence within the meaning of this section. Illustration. A obstructs a path along which Z has a right to pass, A not believing in good faith that he has a right to stop the path. Z is thereby prevented from passing. A wrongfully restrains Z. (2) Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.`;
+    else if (wt==='342'|| wt==='343'|| wt==='344'||wt==='345'||wt==='346'||wt==='347' ||wt==='348') measure = `127. (1) Whoever wrongfully restrains any person in such a manner as to prevent that person from proceedings beyond certain circumscribing limits, is said “wrongfully to confine” that person. Illustrations. (a) A causes Z to go within a walled space, and locks Z in. Z is thus prevented from proceeding in any direction beyond the circumscribing line of wall. A wrongfully confines Z. (b) A places men with firearms at the outlets of a building, and tells Z that they will fire at Z if Z attempts to leave the building. A wrongfully confines Z. (2) Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.
+    (3) Whoever wrongfully confines any person for three days, or more, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both. (4) Whoever wrongfully confines any person for ten days or more, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine which shall not be less than ten thousand rupees. (5) Whoever keeps any person in wrongful confinement, knowing that a writ for the liberation of that person has been duly issued, shall be punished with imprisonment of either description for a term which may extend to two years in addition to any term of imprisonment to which he may be liable under any other section of this Chapter and shall also be liable to fine. (6) Whoever wrongfully confines any person in such manner as to indicate an intention that the confinement of such person may not be known to any person interested in the person so confined, or to any public servant, or that the place of such confinement may not be known to or discovered by any such person or public servant as hereinbefore mentioned, shall be punished with imprisonment of either description for a term which may extend to three years in addition to any other punishment to which he may be liable for such wrongful confinement and shall also be liable to fine. (7) Whoever wrongfully confines any person for the purpose of extorting from the person confined, or from any person interested in the person confined, any property or valuable security or of constraining the person confined or any person  interested in such person to do anything illegal or to give any information which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine. (8) Whoever wrongfully confines any person for the purpose of extorting from the person confined or any person interested in the person confined any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the person confined or any person interested in the person confined to restore or to cause the restoration of any property or valuable security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.`;
+    else if (wt==='361' || wt === '363') measure = `137. (1) Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship–(a) whoever conveys any person beyond the limits of India without the consent of that person, or of some person legally authorised to consent on behalf of that person, is said to kidnap that person from India; (b) whoever takes or entices any child or any person of unsound mind, out of the keeping of the lawful guardian of such child or person of unsound mind, without the consent of such guardian, is said to kidnap such child or person from lawful guardianship. Explanation.––The words “lawful guardian” in this clause include any person lawfully entrusted with the care or custody of such child or other person. Exception.—This clause does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child, or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose. (2) Whoever kidnaps any person from India or from lawful guardianship shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.`;
+    else if (wt==='365' || wt === '367') measure = `140. (1) Whoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in danger of being murdered, shall be punished with imprisonment for life or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. Illustrations. (a) A kidnaps Z from India, intending or knowing it to be likely that Z may be sacrificed to an idol. A has committed the offence defined in this section. (b) A forcibly carries or entices B away from his home in order that B may be murdered. A has committed the offence defined in this section. (2) Whoever kidnaps or abducts any person or keeps a person in detention after such kidnapping or abduction, and threatens to cause death or hurt to such person, or by his conduct gives rise to a reasonable apprehension that such person may be put to death or hurt, or causes hurt or death to such person in order to compel the Government or any foreign State or international inter-governmental organisation or any other person to do or abstain from doing any act or to pay a ransom, shall be punishable with death, or imprisonment for life, and shall also be liable to fine. (3) Whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (4) Whoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt, or slavery, or to the unnatural lust of any person, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.`;
+    else if (wt==='369') measure = `97 . Whoever kidnaps or abducts any child under the age of ten years with the intention of taking dishonestly any movable property from the person of such child, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.`;
+    else if (wt==='366a' ||wt==='366A') measure = `96. Whoever, by any means whatsoever, induces any child to go from any place or to do any act with intent that such child may be, or knowing that it is likely that such child will be, forced or seduced to illicit intercourse with another person shall be punishable with imprisonment which may extend to ten years, and shall also be liable to fine.`;
     else if (wt==='342') measure = "REMOVED";
     else if (wt==='349') measure = `128. Force. : A person is said to use force to another if he causes motion, change of motion, or
     cessation of motion to that other, or if he causes to any substance such motion, or change of
@@ -3965,17 +3959,8 @@ deformity or permanent vegetative state shall not be required to be irreversible
     of private defence.
     Explanation 2.—Whether the provocation was grave and sudden enough to mitigate
     the offence, is a question of fact.`;
-    else if (wt==='353') measure = `132.Assault or
-    criminal force
-    to deter public
-    servant from
-    discharge of
-    his duty :  Whoever assaults or uses criminal force to any person being a public servant in
-    the execution of his duty as such public servant, or with intent to prevent or deter that
-    person from discharging his duty as such public servant, or in consequence of anything
-    done or attempted to be done by such person in the lawful discharge of his duty as such
-    public servant, shall be punished with imprisonment of either description for a term which
-    may extend to two years, or with fine, or with both.`;
+    else if (wt==='353' || wt==='354' || wt==='355' || wt==='356' || wt==='357' || wt==='358' || wt==='359' || wt==='360') measure = `331. (1) Whoever commits lurking house-trespass or house-breaking, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine. (2) Whoever commits lurking house-trespass or house-breaking after sunset and before sunrise, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine. (3) Whoever commits lurking house-trespass or house-breaking, in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; and if the offence intended to be committed is theft, the term of the imprisonment may be extended to ten years. (4) Whoever commits lurking house-trespass or house-breaking after sunset and before sunrise, in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and, if the offence intended to be committed is theft, the term of the imprisonment may be extended to fourteen years. (5) Whoever commits lurking house-trespass, or house-breaking, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or of assault or of wrongful restraint, shall be punished with imprisonment of either description or a term which may extend to ten years, and shall also be liable to fine. (6) Whoever commits lurking house-trespass or house-breaking after sunset and before sunrise, having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine.
+(7) Whoever, whilst committing lurking house-trespass or house-breaking, causes grievous hurt to any person or attempts to cause death or grievous hurt to any person, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (8) If, at the time of the committing of lurking house-trespass or house-breaking after sunset and before sunrise, any person guilty of such offence shall voluntarily cause or attempt to cause death or grievous hurt to any person, every person jointly concerned in committing such lurking house-trespass  or house-breaking after sunset and before sunrise, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.`;
     else if (wt==='354') measure = `74. Assault or use
     of criminal
     force to
@@ -4099,6 +4084,7 @@ deformity or permanent vegetative state shall not be required to be irreversible
     punished with imprisonment of either description for a term which may extend to seven
     years, and shall also be liable to fine.`;
 
+    else if(wt ==='360') measure = `137. (1) Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship–(a) whoever conveys any person beyond the limits of India without the consent of that person, or of some person legally authorised to consent on behalf of that person, is said to kidnap that person from India; (b) whoever takes or entices any child or any person of unsound mind, out of the keeping of the lawful guardian of such child or person of unsound mind, without the consent of such guardian, is said to kidnap such child or person from lawful guardianship. Explanation.––The words “lawful guardian” in this clause include any person lawfully entrusted with the care or custody of such child or other person. Exception.—This clause does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child, or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose. (2) Whoever kidnaps any person from India or from lawful guardianship shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.`;
     else if (wt==='362') measure = `138. Abduction:  Whoever by force compels, or by any deceitful means induces, any person to go
     from any place, is said to abduct that person.`;
     else if (wt==='363a' ||wt==='363A') measure = `139. Kidnapping or
@@ -4170,7 +4156,7 @@ deformity or permanent vegetative state shall not be required to be irreversible
     authority or any other method of compulsion, induces any woman to go from any place with
     intent that she may be, or knowing that it is likely that she will be, forced or seduced to illicit
     intercourse with another person shall also be punishable as aforesaid.`;
-    else if (wt==='366b' || wt==='366B' ||wt==='367') measure = `141. Importation
+    else if (wt==='366b' || wt==='366B') measure = `141. Importation
     of girl or boy
     from foreign
     country: Whoever imports into India from any country outside India any girl under the age
@@ -4530,7 +4516,7 @@ reception and care of women or children`;
     Provided that in cases of theft where the value of the stolen property is less than five
     thousand rupees, and a person is convicted for the first time, shall upon return of the value
     of property or restoration of the stolen property, shall be punished with community service. `;
-    else if (wt==='379') measure = "REMOVED";
+    else if (wt==='379') measure = `303(2) Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both and  in case of second or subsequent conviction of any person under this section, he shall be punished with rigorous imprisonment for a term which shall not be less than one year but which may extend to five years and with fine: Provided that in cases of theft where the value of the stolen property is less than five thousand rupees, and a person is convicted for the first time, shall upon return of the value of property or restoration of the stolen property, shall be punished with community service.`;
     else if (wt==='380') measure = `305. Theft in a
     dwelling house,
     or means of
@@ -4587,6 +4573,9 @@ reception and care of women or children`;
     (c) A threatens to send club-men to plough up Z’s field unless Z will sign and deliver
     to B a bond binding Z under a penalty to deliver certain produce to B, and thereby
     induces Z to sign and deliver the bond. A has committed extortion.`;
+    else if (wt === '384' || wt === '385' || wt === '386' || wt === '388' || wt === '389') measure = `308. (1) Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion. Illustrations. (a) A threatens to publish a defamatory libel concerning Z unless Z gives him money. He thus induces Z to give him money. A has committed extortion. (b) A threatens Z that he will keep Z’s child in wrongful confinement, unless Z will sign and deliver to A a promissory note binding Z to pay certain monies to A. Z signs and delivers the note. A has committed extortion. (c) A threatens to send club-men to plough up Z’s field unless Z will sign and deliver to B a bond binding Z under a penalty to deliver certain produce to B, and thereby induces Z to sign and deliver the bond. A has committed extortion.
+(d) A, by putting Z in fear of grievous hurt, dishonestly induces Z to sign or affix his seal to a blank paper and deliver it to A. Z signs and delivers the paper to A. Here, as the paper so signed may be converted into a valuable security. A has committed extortion. (e) A threatens Z by sending a message through an electronic device that “Your child is in my possession, and will be put to death unless you send me one lakh rupees.” A thus induces Z to give him money.  A has committed extortion. (2) Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. (3) Whoever, in order to the committing of extortion, puts any person in fear, or attempts to put any person in fear, of any injury, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (4) Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (5) Whoever commits extortion by putting any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (6) Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of an accusation, against that person or any other, of having committed, or attempted to commit, an offence punishable with death or with imprisonment for life, or with imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (7) Whoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed or attempted to commit any offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment of either description for308. (1) Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion. Illustrations. (a) A threatens to publish a defamatory libel concerning Z unless Z gives him money. He thus induces Z to give him money. A has committed extortion. (b) A threatens Z that he will keep Z’s child in wrongful confinement, unless Z will sign and deliver to A a promissory note binding Z to pay certain monies to A. Z signs and delivers the note. A has committed extortion. (c) A threatens to send club-men to plough up Z’s field unless Z will sign and deliver to B a bond binding Z under a penalty to deliver certain produce to B, and thereby induces Z to sign and deliver the bond. A has committed extortion.
+(d) A, by putting Z in fear of grievous hurt, dishonestly induces Z to sign or affix his seal to a blank paper and deliver it to A. Z signs and delivers the paper to A. Here, as the paper so signed may be converted into a valuable security. A has committed extortion. (e) A threatens Z by sending a message through an electronic device that “Your child is in my possession, and will be put to death unless you send me one lakh rupees.” A thus induces Z to give him money.  A has committed extortion. (2) Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. (3) Whoever, in order to the committing of extortion, puts any person in fear, or attempts to put any person in fear, of any injury, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (4) Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (5) Whoever commits extortion by putting any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (6) Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of an accusation, against that person or any other, of having committed, or attempted to commit, an offence punishable with death or with imprisonment for life, or with imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (7) Whoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed or attempted to commit any offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. a term which may extend to ten years, and shall also be liable to fine.`;
     else if (wt==='390' ||wt==='392'||wt==='393'||wt==='394') measure = `309. Robbery : (1) In all robbery there is either theft or extortion.
     (2) Theft is robbery if, in order to the committing of the theft, or in committing the theft,
     or in carrying away or attempting to carry away property obtained by the theft, the offender,
@@ -4623,26 +4612,7 @@ reception and care of women or children`;
     hurt, such person, and any other person jointly concerned in committing or attempting to
     commit such robbery, shall be punished with imprisonment for life, or with rigorous
     imprisonment for a term which may extend to ten years, and shall also be liable to fine.`;
-    else if (wt==='391' || wt==='395' ||wt==='399' || wt ==='402') measure = `310. Dacoity :(1) When five or more persons conjointly commit or attempt to commit a robbery,
-    or where the whole number of persons conjointly committing or attempting to commit a
-    robbery, and persons present and aiding such commission or attempt, amount to five or
-    more, every person so committing, attempting or aiding, is said to commit dacoity.
-    (2) Whoever commits dacoity shall be punished with imprisonment for life, or with
-    rigorous imprisonment for a term which may extend to ten years, and shall also be liable to
-    fine.
-    (3) If any one of five or more persons, who are conjointly committing dacoity, commits
-    murder in so committing dacoity, every one of those persons shall be punished with death,
-    or imprisonment for life, or rigorous imprisonment for a term which shall not be less than ten
-    years, and shall also be liable to fine.
-    (4) Whoever makes any preparation for committing dacoity, shall be punished with
-    rigorous imprisonment for a term which may extend to ten years, and shall also be liable to
-    fine.
-    (5) Whoever is one of five or more persons assembled for the purpose of committing
-    dacoity, shall be punished with rigorous imprisonment for a term which may extend to seven
-    years, and shall also be liable to fine.
-    (6) Whoever belongs to a gang of persons associated for the purpose of habitually
-    committing dacoity, shall be punished with imprisonment for life, or with rigorous imprisonment
-    for a term which may extend to ten years, and shall also be liable to fine.`;
+    else if (wt==='391' || wt==='395' ||wt==='396' ||wt==='399' || wt === '400' || wt ==='402') measure = `310. (1) When five or more persons conjointly commit or attempt to commit a robbery, or where the whole number of persons conjointly committing or attempting to commit a robbery, and persons present and aiding such commission or attempt, amount to five or more, every person so committing, attempting or aiding, is said to commit dacoity. (2) Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. (3) If any one of five or more persons, who are conjointly committing dacoity, commits murder in so committing dacoity, every one of those persons shall be punished with death, or imprisonment for life, or rigorous imprisonment for a term which shall not be less than ten years, and shall also be liable to fine. (4) Whoever makes any preparation for committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. (5) Whoever is one of five or more persons assembled for the purpose of committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine. (6) Whoever belongs to a gang of persons associated for the purpose of habitually committing dacoity, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.`;
     else if (wt==='397') measure = `311. Robbery, or
     dacoity, with
     attempt to
@@ -4659,7 +4629,7 @@ reception and care of women or children`;
     deadly weapon. :  If, at the time of attempting to commit robbery or dacoity, the offender is armed
     with any deadly weapon, the imprisonment with which such offender shall be punished shall
     not be less than seven years.`;
-    else if (wt==='400' || wt==='401') measure = `313. Punishment
+    else if (wt==='401') measure = `313. Punishment
     for belonging
     to gang of
     robbers, etc : Whoever belongs to any gang of persons associated in habitually committing
@@ -4739,139 +4709,11 @@ reception and care of women or children`;
     Z dies in possession of furniture and money. His servant A, before the money comes
     into the possession of any person entitled to such possession, dishonestly misappropriates
     it. A has committed the offence defined in this section.`;
-    else if (wt==='405') measure = `316. Criminal
-    breach of
-    trust.:  (1) Whoever, being in any manner entrusted with property, or with any dominion
-    over property, dishonestly misappropriates or converts to his own use that property, or
-    dishonestly uses or disposes of that property in violation of any direction of law prescribing
-    the mode in which such trust is to be discharged, or of any legal contract, express or implied,
-    which he has made touching the discharge of such trust, or wilfully suffers any other person
-    so to do, commits criminal breach of trust.
-    Explanation 1.—A person, being an employer of an establishment whether
-    exempted under section 17 of the Employees’ Provident Funds and Miscellaneous
-    Provisions Act, 1952 or not who deducts the employee’s contribution from the wages payable
-    to the employee for credit to a Provident Fund or Family Pension Fund established by any
-    law for the time being in force, shall be deemed to have been entrusted with the amount of the
-    contribution so deducted by him and if he makes default in the payment of such contribution
-    to the said Fund in violation of the said law, shall be deemed to have dishonestly used the
-    amount of the said contribution in violation of a direction of law as aforesaid.
-    Explanation 2.—A person, being an employer, who deducts the employees’
-    contribution from the wages payable to the employee for credit to the Employees’ State
-    Insurance Fund held and administered by the Employees’ State Insurance Corporation
-    established under the Employees’ State Insurance Act, 1948 shall be deemed to have been
-    entrusted with the amount of the contribution so deducted by him and if he makes default in
-    the payment of such contribution to the said Fund in violation of the said Act, shall be
-    deemed to have dishonestly used the amount of the said contribution in violation of a
-    direction of law as aforesaid.
-    Illustrations.
-    (a) A, being executor to the will of a deceased person, dishonestly disobeys the law
-    which directs him to divide the effects according to the will, and appropriates them to his
-    own use. A has committed criminal breach of trust. (b) A is a warehouse-keeper Z going on a journey, entrusts his furniture to A, under a
-    contract that it shall be returned on payment of a stipulated sum for warehouse room. A
-    dishonestly sells the goods. A has committed criminal breach of trust.
-    (c) A, residing in Kolkata, is agent for Z, residing at Delhi. There is an express or implied
-    contract between A and Z, that all sums remitted by Z to A shall be invested by A, according
-    to Z’s direction. Z remits one lakh of rupees to A, with directions toA to invest the same in
-    Company’s paper. A dishonestly disobeys the directions and employs the money in his own
-    business. A has committed criminal breach of trust.
-    (d) But if A, in illustration (c), not dishonestly but in good faith, believing that it will be
-    more for Z’s advantage to hold shares in the Bank of Bengal, disobeys Z’s directions, and
-    buys shares in the Bank of Bengal, for Z, instead of buying Company’s paper, here,
-    though Z should suffer loss, and should be entitled to bring a civil action against A, on
-    account of that loss, yet A, not having acted dishonestly, has not committed criminal
-    breach of trust.
-    (e) A, a revenue-officer, is entrusted with public money and is either directed by law, or
-    bound by a contract, express or implied, with the Government, to pay into a certain treasury
-    all the public money which he holds. A dishonestly appropriates the money. A has committed
-    criminal breach of trust.
-    (f) A, a carrier, is entrusted by Z with property to be carried by land or by water. A
-    dishonestly misappropriates the property. A has committed criminal breach of trust.
-    (2) Whoever commits criminal breach of trust shall be punished with imprisonment of
-    either description for a term which may extend to five years, or with fine, or with both.
-    (3) Whoever, being entrusted with property as a carrier, wharfinger or
-    warehouse-keeper, commits criminal breach of trust in respect of such property, shall be 
-    punished with imprisonment of either description for a term which may extend to seven 
-    years, and shall also be liable to fine.
-    (4) Whoever, being a clerk or servant or employed as a clerk or servant, and being in
-    any manner entrusted in such capacity with property, or with any dominion over property,
-    commits criminal breach of trust in respect of that property, shall be punished with
-    imprisonment of either description for a term which may extend to seven years, and shall also
-    be liable to fine.
-    (5) Whoever, being in any manner entrusted with property, or with any dominion over
-    property in his capacity of a public servant or in the way of his business as a banker,
-    merchant, factor, broker, attorney or agent commits criminal breach of trust in respect of that
-    property, shall be punished with imprisonment for life, or with imprisonment of either
-    description for a term which may extend to ten years, and shall also be liable to fine.
-    `;
-    else if (wt==='410') measure = `317. Stolen
-    property : (1) Property,the possession whereof has been transferred by theft or extortion or
-    robbery or cheating, and property which has been criminally misappropriated or in respect of
-    which criminal breach of trust has been committed, is designated as stolen property, whether
-    the transfer has been made, or the misappropriation or breach of trust has been committed,
-    within or without India, but, if such property subsequently comes into the possession of a
-    person legally entitled to the possession thereof, it then ceases to be stolen property.
-    (2) Whoever dishonestly receives or retains any stolen property, knowing or having
-    reason to believe the same to be stolen property, shall be punished with imprisonment of
-    either description for a term which may extend to three years, or with fine, or with both.
-    (3) Whoever dishonestly receives or retains any stolen property, the possession
-    whereof he knows or has reason to believe to have been transferred by the commission of dacoity, or dishonestly receives from a person, whom he knows or has reason to believe to
-    belong or to have belonged to a gang of dacoits, property which he knows or has reason to
-    believe to have been stolen, shall be punished with imprisonment for life, or with rigorous
-    imprisonment for a term which may extend to ten years, and shall also be liable to fine.
-    (4) Whoever habitually receives or deals in property which he knows or has reason to
-    believe to be stolen property, shall be punished with imprisonment for life, or with imprisonment
-    of either description for a term which may extend to ten years, and shall also be liable to fine.
-    (5) Whoever voluntarily assists in concealing or disposing of or making away with
-    property which he knows or has reason to believe to be stolen property, shall be punished
-    with imprisonment of either description for a term which may extend to three years, or with
-    fine, or with both.`;
-    else if (wt==='415') measure = `318. Cheating. : (1) Whoever, by deceiving any person, fraudulently or dishonestly induces the
-    person so deceived to deliver any property to any person, or to consent that any person
-    shall retain any property, or intentionally induces the person so deceived to do or omit to do
-    anything which he would not do or omit if he were not so deceived, and which act or
-    omission causes or is likely to cause damage or harm to that person in body, mind, reputation
-    or property, is said to cheat.
-    Explanation.—A dishonest concealment of facts is a deception within the meaning of
-    this section.
-    Illustrations.
-    (a) A, by falsely pretending to be in the Civil Service, intentionally deceives Z, and
-    thus dishonestly induces Z to let him have on credit goods for which he does not mean to
-    pay. A cheats.
-    (b) A, by putting a counterfeit mark on an article, intentionally deceives Z into a
-    belief that this article was made by a certain celebrated manufacturer, and thus dishonestly
-    induces Z to buy and pay for the article. A cheats.
-    (c) A, by exhibiting to Z a false sample of an article intentionally deceives Z into
-    believing that the article corresponds with the sample, and thereby dishonestly induces Z to
-    buy and pay for the article. A cheats.
-    (d) A, by tendering in payment for an article a bill on a house with which A keeps no
-    money, and by which A expects that the bill will be dishonoured, intentionally deceives Z,
-    and thereby dishonestly induces Z to deliver the article, intending not to pay for it. A cheats.
-    (e) A, by pledging as diamonds articles which he knows are not diamonds, intentionally
-    deceives Z, and thereby dishonestly induces Z to lend money. A cheats.
-    (f) A intentionally deceives Z into a belief that A means to repay any money that Z
-    may lend to him and thereby dishonestly induces Z to lend him money, A not intending to
-    repay it. A cheats.
-    (g) A intentionally deceives Z into a belief that A means to deliver to Z a certain
-    quantity of indigo plant which he does not intend to deliver, and thereby dishonestly induces
-    Z to advance money upon the faith of such delivery. A cheats; but if A, at the time of
-    obtaining the money, intends to deliver the indigo plant, and afterwards breaks his contract
-    and does not deliver it, he does not cheat, but is liable only to a civil action for breach of
-    contract.
-    (h) A intentionally deceives Z into a belief that A has performed A’s part of a contract
-    made with Z, which he has not performed, and thereby dishonestly induces Z to pay money.
-    A cheats.`;
-    else if (wt==='416') measure = `319. Cheating by
-    personation :  (1) A person is said to cheat by personation if he cheats by pretending to be some
-    other person, or by knowingly substituting one person for or another, or representing that he
-    or any other person is a person other than he or such other person really is.
-    Explanation.—The offence is committed whether the individual personated is a real
-    or imaginary person.
-    Illustrations.
-    (a) A cheats by pretending to be a certain rich banker of the same name. A cheats by
-    personation.
-    (b) A cheats by pretending to be B, a person who is deceased. A cheats by personation.
-    (2) Whoever cheats by personation shall be punished with imprisonment of either
-    description for a term which may extend to five years, or with fine, or with both`;
+    else if (wt==='405' || wt === '408' || wt === '406' || wt === '407' || wt === '409') measure = `316. (1) Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits criminal breach of trust. Explanation 1.—A person, being an employer of an establishment whether exempted under section 17 of the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952 or not who deducts the employee’s contribution from the wages payable to the employee for credit to a Provident Fund or Family Pension Fund established by any law for the time being in force, shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said law, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid. Explanation 2.—A person, being an employer, who deducts the employees’ contribution from the wages payable to the employee for credit to the Employees’ State Insurance Fund held and administered by the Employees’ State Insurance Corporation established under the Employees’ State Insurance Act, 1948 shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said Act, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid. Illustrations. (a) A, being executor to the will of a deceased person, dishonestly disobeys the law which directs him to divide the effects according to the will, and appropriates them to his own use. A has committed criminal breach of trust. (b) A is a warehouse-keeper Z going on a journey, entrusts his furniture to A, under a contract that it shall be returned on payment of a stipulated sum for warehouse room. A dishonestly sells the goods. A has committed criminal breach of trust. (c) A, residing in Kolkata, is agent for Z, residing at Delhi. There is an express or implied contract between A and Z, that all sums remitted by Z to A shall be invested by A, according to Z’s direction. Z remits one lakh of rupees to A, with directions to A to invest the same in Company’s paper. A dishonestly disobeys the directions and employs the money in his own business. A has committed criminal breach of trust. (d) But if A, in illustration (c), not dishonestly but in good faith, believing that it will be more for Z’s advantage to hold shares in the Bank of Bengal, disobeys Z’s directions, and buys shares in the Bank of Bengal, for Z, instead of buying Company’s paper, here, though Z should suffer loss, and should be entitled to bring a civil action against A, on account of that loss, yet A, not having acted dishonestly, has not committed criminal breach of trust. (e) A, a revenue-officer, is entrusted with public money and is either directed by law, or bound by a contract, express or implied, with the Government, to pay into a certain treasury all the public money which he holds. A dishonestly appropriates the money. A has committed criminal breach of trust. (f) A, a carrier, is entrusted by Z with property to be carried by land or by water. A dishonestly misappropriates the property. A has committed criminal breach of trust. (2) Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both. (3) Whoever, being entrusted with property as a carrier, wharfinger or warehouse-keeper, commits criminal breach of trust in respect of such property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (4) Whoever, being a clerk or servant or employed as a clerk or servant, and being in any manner entrusted in such capacity with property, or with any dominion over property, commits criminal breach of trust in respect of that property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (5) Whoever, being in any manner entrusted with property, or with any dominion over property in his capacity of a public servant or in the way of his business as a banker, merchant, factor, broker, attorney or agent commits criminal breach of trust in respect of that property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.`;
+    else if (wt==='410' || wt==='411' || wt === '412' || wt === '413' || wt === '414') measure = `317. (1) Property, the possession whereof has been transferred by theft or extortion or robbery or cheating, and property which has been criminally misappropriated or in respect of which criminal breach of trust has been committed, is designated as stolen property, whether the transfer has been made, or the misappropriation or breach of trust has been committed, within or without India, but, if such property subsequently comes into the possession of a person legally entitled to the possession thereof, it then ceases to be stolen property. (2) Whoever dishonestly receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both. (3) Whoever dishonestly receives or retains any stolen property, the possession whereof he knows or has reason to believe to have been transferred by the commission of dacoity, or dishonestly receives from a person, whom he knows or has reason to believe to belong or to have belonged to a gang of dacoits, property which he knows or has reason to believe to have been stolen, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. (4) Whoever habitually receives or deals in property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (5) Whoever voluntarily assists in concealing or disposing of or making away with property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.`;
+    else if (wt==='415' || wt==='417' || wt === '418'|| wt === '420') measure = `318. (1) Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat. Explanation.—A dishonest concealment of facts is a deception within the meaning of this section. Illustrations. (a) A, by falsely pretending to be in the Civil Service, intentionally deceives Z, and thus dishonestly induces Z to let him have on credit goods for which he does not mean to pay. A cheats. (b) A, by putting a counterfeit mark on an article, intentionally deceives Z into a belief that this article was made by a certain celebrated manufacturer, and thus dishonestly induces Z to buy and pay for the article. A cheats. (c) A, by exhibiting to Z a false sample of an article intentionally deceives Z into believing that the article corresponds with the sample, and thereby dishonestly induces Z to buy and pay for the article. A cheats. (d) A, by tendering in payment for an article a bill on a house with which A keeps no money, and by which A expects that the bill will be dishonoured, intentionally deceives Z, and thereby dishonestly induces Z to deliver the article, intending not to pay for it. A cheats. (e) A, by pledging as diamonds articles which he knows are not diamonds, intentionally deceives Z, and thereby dishonestly induces Z to lend money. A cheats. (f) A intentionally deceives Z into a belief that A means to repay any money that Z may lend to him and thereby dishonestly induces Z to lend him money, A not intending to repay it. A cheats. (g) A intentionally deceives Z into a belief that A means to deliver to Z a certain quantity of indigo plant which he does not intend to deliver, and thereby dishonestly induces Z to advance money upon the faith of such delivery. A cheats; but if A, at the time of obtaining the money, intends to deliver the indigo plant, and afterwards breaks his contract and does not deliver it, he does not cheat, but is liable only to a civil action for breach of contract. (h) A intentionally deceives Z into a belief that A has performed A’s part of a contract made with Z, which he has not performed, and thereby dishonestly induces Z to pay money. A cheats.
+(i) A sells and conveys an estate to B. A, knowing that in consequence of such sale he has no right to the property, sells or mortgages the same to Z, without disclosing the fact of the previous sale and conveyance to B, and receives the purchase or mortgage money from Z. A cheats. (2) Whoever cheats shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both. (3) Whoever cheats with the knowledge that he is likely thereby to cause wrongful loss to a person whose interest in the transaction to which the cheating relates, he was bound, either by law, or by a legal contract, to protect, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both. (4) Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.`;
+    else if (wt==='416' || wt === '419') measure = `319. (1) A person is said to cheat by personation if he cheats by pretending to be some other person, or by knowingly substituting one person for or another, or representing that he or any other person is a person other than he or such other person really is. Explanation.—The offence is committed whether the individual personated is a real or imaginary person. Illustrations. (a) A cheats by pretending to be a certain rich banker of the same name. A cheats by personation. (b) A cheats by pretending to be B, a person who is deceased. A cheats by personation. (2) Whoever cheats by personation shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.`;
     else if (wt==='421') measure = `320. Dishonest or
     fraudulent
     removal or
@@ -4918,59 +4760,18 @@ reception and care of women or children`;
     thereof, or dishonestly releases any demand or claim to which he is entitled, shall be punished
     with imprisonment of either description for a term which may extend to three years, or with
     fine, or with both`;
-    else if (wt==='425') measure = `324. Mischief : (1) Whoever with intent to cause, or knowing that he is likely to cause, wrongful
-    loss or damage to the public or to any person, causes the destruction of any property, or any
-    such change in any property or in the situation thereof as destroys or diminishes its value or
-    utility, or affects it injuriously, commits mischief.
-    Explanation 1.—It is not essential to the offence of mischief that the offender should
-    intend to cause loss or damage to the owner of the property injured or destroyed. It is
-    sufficient if he intends to cause, or knows that he is likely to cause, wrongful loss or damage
-    to any person by injuring any property, whether it belongs to that person or not.
-    Explanation 2.—Mischief may be committed by an act affecting property belonging
-    to the person who commits the act, or to that person and others jointly.
-    Illustrations.
-    (a)Avoluntarily burns a valuable security belonging to Z intending to cause wrongful
-    loss to Z.A has committed mischief.
-    (b) A introduces water into an ice-house belonging to Z and thus causes the ice to
-    melt, intending wrongful loss to Z. A has committed mischief.
-    (c)Avoluntarily throws into a river a ring belonging to Z, with the intention of thereby
-    causing wrongful loss to Z.A has committed mischief.
-    (d) A, knowing that his effects are about to be taken in execution in order to satisfy a
-    debt due from him to Z, destroys those effects, with the intention of thereby preventing Z
-    from obtaining satisfaction of the debt, and of thus causing damage to Z. A has committed
-    mischief.
-    (e) A having insured a ship, voluntarily causes the same to be cast away, with the
-    intention of causing damage to the underwriters. A has committed mischief.
-    (f) A causes a ship to be cast away, intending thereby to cause damage to Z who has
-    lent money on bottomry on the ship. A has committed mischief.
-    (g) A, having joint property with Z in a horse, shoots the horse, intending thereby to
-    cause wrongful loss to Z. A has committed mischief.
-    (h) A causes cattle to enter upon a field belonging to Z, intending to cause and
-    knowing that he is likely to cause damage to Z’s crop. A has committed mischief.
-    (2) Whoever commits mischief shall be punished with imprisonment of either description
-    for a term which may extend to six months, or with fine, or with both.
-    (3) Whoever commits mischief and thereby causes loss or damage to any property
-    including the property of Government or Local Authority shall be punished with imprisonment
-    of either description for a term which may extend to one year, or with fine, or with both.
-    (4) Whoever commits mischief and thereby causes loss or damage to the amount of
-    twenty thousand rupees and more but less than one lakh rupees shall be punished with
-    imprisonment of either description for a term which may extend to two years, or with fine, or
-    with both.
-    (5) Whoever commits mischief and thereby causes loss or damage to the amount of
-    one lakh rupees or upwards, shall be punished with imprisonment of either description for a
-    term which may extend to five years, or with fine, or with both.
-    (6) Whoever commits mischief, having made preparation for causing to any person
-death, or hurt, or wrongful restraint, or fear of death, or of hurt, or of wrongful restraint, shall
-be punished with imprisonment of either description for a term which may extend to five
-years, and shall also be liable to fine.`;
-    else if (wt==='428'||wt==='429'||wt==='430'||wt==='431'||wt==='432') measure = `325. Mischief by
+    else if (wt==='425' ||wt==='426') measure = `324. (1) Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits mischief. Explanation 1.—It is not essential to the offence of mischief that the offender should intend to cause loss or damage to the owner of the property injured or destroyed. It is sufficient if he intends to cause, or knows that he is likely to cause, wrongful loss or damage to any person by injuring any property, whether it belongs to that person or not. Explanation 2.—Mischief may be committed by an act affecting property belonging to the person who commits the act, or to that person and others jointly. Illustrations. (a) A voluntarily burns a valuable security belonging to Z intending to cause wrongful loss to Z. A has committed mischief. (b) A introduces water into an ice-house belonging to Z and thus causes the ice to melt, intending wrongful loss to Z. A has committed mischief. (c) A voluntarily throws into a river a ring belonging to Z, with the intention of thereby causing wrongful loss to Z. A has committed mischief. (d) A, knowing that his effects are about to be taken in execution in order to satisfy a debt due from him to Z, destroys those effects, with the intention of thereby preventing Z from obtaining satisfaction of the debt, and of thus causing damage to Z. A has committed mischief. (e) A having insured a ship, voluntarily causes the same to be cast away, with the intention of causing damage to the underwriters. A has committed mischief. (f) A causes a ship to be cast away, intending thereby to cause damage to Z who has lent money on bottomry on the ship. A has committed mischief. (g) A, having joint property with Z in a horse, shoots the horse, intending thereby to cause wrongful loss to Z. A has committed mischief. (h) A causes cattle to enter upon a field belonging to Z, intending to cause and knowing that he is likely to cause damage to Z’s crop. A has committed mischief. (2) Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (3) Whoever commits mischief and thereby causes loss or damage to any property including the property of Government or Local Authority shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both. (4) Whoever commits mischief and thereby causes loss or damage to the amount of twenty thousand rupees and more but less than one lakh rupees shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (5) Whoever commits mischief and thereby causes loss or damage to the amount of one lakh rupees or upwards, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.
+(6) Whoever commits mischief, having made preparation for causing to any person death, or hurt, or wrongful restraint, or fear of death, or of hurt, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.`;
+    else if (wt==='428'||wt==='429'|| wt === '427') measure = `325. Mischief by
     killing or
     maiming
     animal :  Whoever commits mischief by killing, poisoning, maiming or rendering useless
     any animal shall be punished with imprisonment of either description for a term which may
     extend to five years, or with fine, or with both.`;
 
-    else if (wt==='439') measure = `328. Punishment for
+    else if (wt === '433' || wt === '431' ||wt==='432' ||wt==='430' ||wt==='434' ||wt==='435' || wt === '436') measure = `326. Whoever commits mischief  by,— (a) doing any act which causes, or which he knows to be likely to cause, a diminution of the supply of water for agricultural purposes, or for food or drink for human beings or for animals which are property, or for cleanliness or for carrying on any manufacture, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both; (b) doing any act which renders or which he knows to be likely to render any public road, bridge, navigable river or navigable channel, natural or artificial, impassable or less safe for travelling or conveying property, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both; (c) doing any act which causes or which he knows to be likely to cause an inundation or an obstruction to any public drainage attended with injury or damage, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both; (d) destroying or moving any sign or signal used for navigation of rail, aircraft or ship or other thing placed as a guide for navigators, or by any act which renders any such sign or signal less useful as a guide for navigators, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both; (e) destroying or moving any land-mark fixed by the authority of a public servant, or by any act which renders such land-mark less useful as such, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both; (f) fire or any explosive substance intending to cause, or knowing it to be likely that he will thereby cause, damage to any property including agricultural produce, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (g) fire or any explosive substance, intending to cause, or knowing it to be likely that he will thereby cause, the destruction of any building which is ordinarily used as a place of worship or as a human dwelling or as a place for the custody of property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.`;
+    else if (wt === '437' || wt === '438') measure = `327. (1) Whoever commits mischief to any rail, aircraft, or a decked vessel or any vessel of a burden of twenty tons or upwards, intending to destroy or render unsafe, or knowing it to be likely that he will thereby destroy or render unsafe, that rail, aircraft or vessel, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (2) Whoever commits, or attempts to commit, by fire or any explosive substance, such mischief as is described in sub-section (1), shall be punished with imprisonment for life or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.`;
+    else if (wt==='439' || wt==='440') measure = `328. Punishment for
     intentionally
     running vessel
     aground or
@@ -4983,107 +4784,10 @@ years, and shall also be liable to fine.`;
     punished with imprisonment of either description for a term which may extend to ten years,
     and shall also be liable to fine.
     `;
-    else if (wt==='441') measure = `329. Criminal
-    trespass and
-    house-trespass. :(1) Whoever enters into or upon property in the possession of another with
-    intent to commit an offence or to intimidate, insult or annoy any person in possession of
-    such property or having lawfully entered into or upon such property, unlawfully remains
-    there with intent thereby to intimidate, insult or annoy any such person or with intent to
-    commit an offence is said to commit criminal trespass.
-    (2) Whoever commits criminal trespass by entering into or remaining in any building,
-    tent or vessel used as a human dwelling or any building used as a place for worship, or as a
-    place for the custody of property, is said to commit house-trespass.
-    Explanation.—The introduction of any part of the criminal trespasser’s body is entering
-    sufficient to constitute house-trespass.
-    (3) Whoever commits criminal trespass shall be punished with imprisonment of either
-    description for a term which may extend to three months, or with fine which may extend to
-    five thousand rupees, or with both.
-    (4) Whoever commits house-trespass shall be punished with imprisonment of either
-    description for a term which may extend to one year, or with fine which may extend to five
-    thousand rupees, or with both.`;
-    else if (wt==='442' || wt==='445') measure = `330. House-trespass
-    and housebreaking. : (1) Whoever commits house-trespass having taken precautions to conceal such
-    house-trespass from some person who has a right to exclude or eject the trespasser from the
-    building, tent or vessel which is the subject of the trespass, is said to commit lurking
-    house-trespass.
-    (2) A person is said to commit house-breaking who commits house-trespass if he
-    effects his entrance into the house or any part of it in any of the six ways hereinafter
-    described; or if, being in the house or any part of it for the purpose of committing an offence,
-    or having committed an offence therein, he quits the house or any part of it in any of the
-    following ways, namely:––
-    (a) if he enters or quits through a passage made by himself, or by any abettor of
-    the house-trespass, in order to the committing of the house-trespass;
-    (b) if he enters or quits through any passage not intended by any person, other
-    than himself or an abettor of the offence, for human entrance; or through any passage
-    to which he has obtained access by scaling or climbing over any wall or building;
-    (c) if he enters or quits through any passage which he or any abettor of the
-    house-trespass has opened, in order to the committing of the house-trespass by any
-    means by which that passage was not intended by the occupier of the house to be
-    opened;
-    (d) if he enters or quits by opening any lock in order to the committing of the
-    house-trespass, or in order to the quitting of the house after a house-trespass;
-    (e) if he effects his entrance or departure by using criminal force or committing
-    an assault, or by threatening any person with assault;
-    (f) if he enters or quits by any passage which he knows to have been fastened
-    against such entrance or departure, and to have been unfastened by himself or by an
-    abettor of the house-trespass. Explanation.—Any out-house or building occupied with a house, and between which
-    and such house there is an immediate internal communication, is part of the house within the
-    meaning of this section.
-    Illustrations.
-    (a) A commits house-trespass by making a hole through the wall of Z’s house, and
-    putting his hand through the aperture. This is house-breaking.
-    (b) A commits house-trespass by creeping into a ship at a port-hole between decks.
-    This is house-breaking.
-    (c) A commits house-trespass by entering Z’s house through a window. This is
-    house-breaking.
-    (d) A commits house-trespass by entering Z’s house through the door, having opened
-    a door which was fastened. This is house-breaking.
-    (e) A commits house-trespass by entering Z’s house through the door, having lifted a
-    latch by putting a wire through a hole in the door. This is house-breaking.
-    (f) A finds the key of Z’s house door, which Z had lost, and commits house-trespass by
-    entering Z’s house, having opened the door with that key. This is house-breaking.
-    (g) Z is standing in his doorway. A forces a passage by knocking Z down, and commits
-    house-trespass by entering the house. This is house-breaking.
-    (h) Z, the door-keeper of Y, is standing in Y’s doorway. A commits house-trespass by
-    entering the house, having deterred Z from opposing him by threatening to beat him. This is
-    house-breaking.`;
-    else if (wt==='448') measure = `331. Punishment for
-    house-trespass
-    or housebreakin : (1) Whoever commits lurking house-trespass or house-breaking, shall be punished
-    with imprisonment of either description for a term which may extend to two years, and shall
-    also be liable to fine.
-    (2) Whoever commits lurking house-trespass or house-breaking after sunset and before
-    sunrise, shall be punished with imprisonment of either description for a term which may
-    extend to three years, and shall also be liable to fine.
-    (3) Whoever commits lurking house-trespass or house-breaking, in order to the
-    committing of any offence punishable with imprisonment, shall be punished with imprisonment
-    of either description for a term which may extend to three years, and shall also be liable to
-    fine; and if the offence intended to be committed is theft, the term of the imprisonment may
-    be extended to ten years.
-    (4) Whoever commits lurking house-trespass or house-breaking after sunset and before
-    sunrise, in order to the committing of any offence punishable with imprisonment, shall be
-    punished with imprisonment of either description for a term which may extend to five years,
-    and shall also be liable to fine; and, if the offence intended to be committed is theft, the term
-    of the imprisonment may be extended to fourteen years.
-    (5) Whoever commits lurking house-trespass, or house-breaking, having made
-    preparation for causing hurt to any person, or for assaulting any person, or for wrongfully
-    restraining any person, or for putting any person in fear of hurt or of assault or of wrongful
-    restraint, shall be punished with imprisonment of either description or a term which may
-    extend to ten years, and shall also be liable to fine.
-    (6) Whoever commits lurking house-trespass or house-breaking after sunset and before
-    sunrise, having made preparation for causing hurt to any person or for assaulting any
-    person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or
-    of assault, or of wrongful restraint, shall be punished with imprisonment of either description
-    for a term which may extend to fourteen years, and shall also be liable to fine. (7) Whoever, whilst committing lurking house-trespass or house-breaking, causes
-    grievous hurt to any person or attempts to cause death or grievous hurt to any person, shall
-    be punished with imprisonment for life, or imprisonment of either description for a term which
-    may extend to ten years, and shall also be liable to fine.
-    (8) If, at the time of the committing of lurking house-trespass or house-breaking after
-    sunset and before sunrise, any person guilty of such offence shall voluntarily cause or
-    attempt to cause death or grievous hurt to any person, every person jointly concerned in
-    committing such lurking house-trespass or house-breaking after sunset and before sunrise,
-    shall be punished with imprisonment for life, or with imprisonment of either description for a
-    term which may extend to ten years, and shall also be liable to fine.`;
+    else if (wt==='441'||wt==='442'|| wt==='447' ) measure = `329. (1) Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person or with intent to commit an offence is said to commit criminal trespass. (2) Whoever commits criminal trespass by entering into or remaining in any building, tent or vessel used as a human dwelling or any building used as a place for worship, or as a place for the custody of property, is said to commit house-trespass. Explanation.—The introduction of any part of the criminal trespasser’s body is entering sufficient to constitute house-trespass. (3) Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both. (4) Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.`;
+    else if (wt==='443' || wt==='445') measure = `330. (1) Whoever commits house-trespass having taken precautions to conceal such house-trespass from some person who has a right to exclude or eject the trespasser from the building, tent or vessel which is the subject of the trespass, is said to commit lurking house-trespass. (2) A person is said to commit house-breaking who commits house-trespass if he effects his entrance into the house or any part of it in any of the six ways hereinafter described; or if, being in the house or any part of it for the purpose of committing an offence, or having committed an offence therein, he quits the house or any part of it in any of the following ways, namely:–(a) if he enters or quits through a passage made by himself, or by any abettor of the house-trespass, in order to the committing of the house-trespass; (b) if he enters or quits through any passage not intended by any person, other than himself or an abettor of the offence, for human entrance; or through any passage to which he has obtained access by scaling or climbing over any wall or building; (c) if he enters or quits through any passage which he or any abettor of the house-trespass has opened, in order to the committing of the house-trespass by any means by which that passage was not intended by the occupier of the house to be opened; (d) if he enters or quits by opening any lock in order to the committing of the house-trespass, or in order to the quitting of the house after a house-trespass; (e) if he effects his entrance or departure by using criminal force or committing an assault, or by threatening any person with assault; (f) if he enters or quits by any passage which he knows to have been fastened against such entrance or departure, and to have been unfastened by himself or by an abettor of the house-trespass.
+Explanation.—Any out-house or building occupied with a house, and between which and such house there is an immediate internal communication, is part of the house within the meaning of this section. Illustrations. (a) A commits house-trespass by making a hole through the wall of Z’s house, and putting his hand through the aperture. This is house-breaking. (b) A commits house-trespass by creeping into a ship at a port-hole between decks. This is house-breaking. (c) A commits house-trespass by entering Z’s house through a window. This is house-breaking. (d) A commits house-trespass by entering Z’s house through the door, having opened a door which was fastened. This is house-breaking. (e) A commits house-trespass by entering Z’s house through the door, having lifted a latch by putting a wire through a hole in the door. This is house-breaking. (f) A finds the key of Z’s house door, which Z had lost, and commits house-trespass by entering Z’s house, having opened the door with that key. This is house-breaking. (g) Z is standing in his doorway. A forces a passage by knocking Z down, and commits house-trespass by entering the house. This is house-breaking. (h) Z, the door-keeper of Y, is standing in Y’s doorway. A commits house-trespass by entering the house, having deterred Z from opposing him by threatening to beat him. This is house-breaking.`;
+    else if (wt==='448') measure = `329. (1) Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person or with intent to commit an offence is said to commit criminal trespass. (2) Whoever commits criminal trespass by entering into or remaining in any building, tent or vessel used as a human dwelling or any building used as a place for worship, or as a place for the custody of property, is said to commit house-trespass. Explanation.—The introduction of any part of the criminal trespasser’s body is entering sufficient to constitute house-trespass. (3) Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both. (4) Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.`;
     else if (wt==='449' ||wt==='450'||wt==='451') measure = `332. House-trespass
     in order to
     commit
@@ -5107,32 +4811,9 @@ years, and shall also be liable to fine.`;
     putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished
     with imprisonment of either description for a term which may extend to seven years, and shall
     also be liable to fine`;
-    else if (wt==='461') measure = `334. Dishonestly
-    breaking open
-    receptacle
-    containing
-    property: (1) Whoever dishonestly or with intent to commit mischief, breaks open or
-    unfastens any closed receptacle which contains or which he believes to contain property,
-    shall be punished with imprisonment of either description for a term which may extend to two
-    years, or with fine, or with both.
-    (2) Whoever, being entrusted with any closed receptacle which contains or which he
-    believes to contain property, without having authority to open the same, dishonestly, or with
-    intent to commit mischief, breaks open or unfastens that receptacle, shall be punished with
-    imprisonment of either description for a term which may extend to three years, or with fine, or
-    with both`;
-    else if (wt==='463') measure = `336. Forgery : (1) Whoever makes any false document or false electronic record or part of a
-    document or electronic record, with intent to cause damage or injury, to the public or to any
-    person, or to support any claim or title, or to cause any person to part with property, or to
-    enter into any express or implied contract, or with intent to commit fraud or that fraud may be
-    committed, commits forgery.
-    (2) Whoever commits forgery shall be punished with imprisonment of either description
-    for a term which may extend to two years, or with fine, or with both.
-    (3) Whoever commits forgery, intending that the document or electronic record forged
-    shall be used for the purpose of cheating, shall be punished with imprisonment of either
-    description for a term which may extend to seven years, and shall also be liable to fine. (4) Whoever commits forgery, intending that the document or electronic record forged
-    shall harm the reputation of any party, or knowing that it is likely to be used for that purpose,
-    shall be punished with imprisonment of either description for a term which may extend to
-    three years, and shall also be liable to fine.`;
+    else if (wt==='461' || wt==='462') measure = `334. (1) Whoever dishonestly or with intent to commit mischief, breaks open or unfastens any closed receptacle which contains or which he believes to contain property, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (2) Whoever, being entrusted with any closed receptacle which contains or which he believes to contain property, without having authority to open the same, dishonestly, or with intent to commit mischief, breaks open or unfastens that receptacle, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.`;
+    else if (wt==='463' || wt === '465'|| wt === '469' || wt === '468') measure = `336. (1) Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery. (2) Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (3) Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+(4) Whoever commits forgery, intending that the document or electronic record forged shall harm the reputation of any party, or knowing that it is likely to be used for that purpose, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.`;
     else if (wt==='464') measure = `335. Making a false
     document. :  A person is said to make a false document or false electronic record—
     (A) Who dishonestly or fraudulently—
@@ -5254,42 +4935,9 @@ years, and shall also be liable to fine.`;
     acquittance or receipt for the delivery of any movable property or valuable security, shall be
     punished with imprisonment for life, or with imprisonment of either description for a term
     which may extend to ten years, and shall also be liable to fine.`;
-    else if (wt==='470') measure = `340. Forged
-    document or
-    electronic
-    record and
-    using it as
-    genuine. : (1) A false document or electronic record made wholly or in part by forgery is
-    designated a forged document or electronic record.
-    (2) Whoever fraudulently or dishonestly uses as genuine any document or electronic
-    record which he knows or has reason to believe to be a forged document or electronic record,
-    shall be punished in the same manner as if he had forged such document or electronic record.`;
-    else if (wt==='473') measure = `341. Making or
-    possessing
-    counterfeit
-    seal, etc., with
-    intent to
-    commit
-    forgery
-    punishable
-    under section
-    338 : (1) Whoever makes or counterfeits any seal, plate or other instrument for making
-    an impression, intending that the same shall be used for the purpose of committing any
-    forgery which would be punishable under section 338 of this Sanhita, or, with such intent,
-    has in his possession any such seal, plate or other instrument, knowing the same to be
-    counterfeit, shall be punished with imprisonment for life, or with imprisonment of either
-    description for a term which may extend to seven years, and shall also be liable to fine.
-    (2) Whoever makes or counterfeits any seal, plate or other instrument for making an
-    impression, intending that the same shall be used for the purpose of committing any forgery
-    which would be punishable under any section of this Chapter other than section 338, or, with
-    such intent, has in his possession any such seal, plate or other instrument, knowing the
-    same to be counterfeit, shall be punished with imprisonment of either description for a term
-    which may extend to seven years, and shall also be liable to fine.
-    (3) Whoever possesses any seal, plate or other instrument knowing the same to be
-    counterfeit, shall be punished with imprisonment of either description for a term which may
-    extend to three years, and shall also be liable to fine. (4) Whoever fraudulently or dishonestly uses as genuine any seal, plate or other
-    instrument knowing or having reason to believe the same to be counterfeit, shall be punished
-    in the same manner as if he had made or counterfeited such seal, plate or other instrument.`;
+    else if (wt==='470' || wt==='471') measure = `340. (1) A false document or electronic record made wholly or in part by forgery is designated a forged document or electronic record. (2) Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document or electronic record, shall be punished in the same manner as if he had forged such document or electronic record.`;
+    else if (wt==='472' || wt === '473') measure = `341. (1) Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under section 338 of this Sanhita, or, with such intent, has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (2) Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under any section of this Chapter other than section 338, or, with such intent, has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (3) Whoever possesses any seal, plate or other instrument knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.
+(4) Whoever fraudulently or dishonestly uses as genuine any seal, plate or other instrument knowing or having reason to believe the same to be counterfeit, shall be punished in the same manner as if he had made or counterfeited such seal, plate or other instrument.`;
     else if (wt==='474') measure = `339. Having
     possession of
     document
@@ -5308,32 +4956,7 @@ years, and shall also be liable to fine.`;
     of the description mentioned in section 338, shall be punished with imprisonment for life, or
     with imprisonment of either description, for a term which may extend to seven years, and
     shall also be liable to fine`;
-    else if (wt==='475') measure = `342. Counterfeiting
-    device or
-    mark used for
-    authenticating
-    documents
-    described in
-    section 338,
-    or possessing
-    counterfeit
-    marked
-    material. : (1) Whoever counterfeits upon, or in the substance of, any material, any device
-    or mark used for the purpose of authenticating any document described in section 338,
-    intending that such device or mark shall be used for the purpose of giving the appearance of
-    authenticity to any document then forged or thereafter to be forged on such material, or who,
-    with such intent, has in his possession any material upon or in the substance of which any
-    such device or mark has been counterfeited, shall be punished with imprisonment for life, or
-    with imprisonment of either description for a term which may extend to seven years, and shall
-    also be liable to fine.
-    (2) Whoever counterfeits upon, or in the substance of, any material, any device or
-    mark used for the purpose of authenticating any document or electronic record other than
-    the documents described in section 338, intending that such device or mark shall be used for
-    the purpose of giving the appearance of authenticity to any document then forged or
-    thereafter to be forged on such material, or who with such intent, has in his possession any
-    material upon or in the substance of which any such device or mark has been counterfeited,
-    shall be punished with imprisonment of either description for a term which may extend to
-    seven years, and shall also be liable to fine.`;
+    else if (wt==='475' || wt === '476') measure = `342. (1) Whoever counterfeits upon, or in the substance of, any material, any device or mark used for the purpose of authenticating any document described in section 338, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document then forged or thereafter to be forged on such material, or who, with such intent, has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (2) Whoever counterfeits upon, or in the substance of, any material, any device or mark used for the purpose of authenticating any document or electronic record other than the documents described in section 338, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document then forged or thereafter to be forged on such material, or who with such intent, has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.`;
     else if (wt==='477') measure = `343. Fraudulent
     cancellation,
     destruction,
@@ -5361,29 +4984,8 @@ years, and shall also be liable to fine.`;
     intent to defraud without naming any particular person intended to be defrauded or specifying
     any particular sum of money intended to be the subject of the fraud, or any particular day on
     which the offence was committed.`;
-    else if (wt==='479') measure = `345. Property
-    mark. : (1) A mark used for denoting that movable property belongs to a particular person
-    is called a property mark.
-    (2) Whoever marks any movable property or goods or any case, package or other
-    receptacle containing movable property or goods, or uses any case, package or other
-    receptacle having any mark thereon, in a manner reasonably calculated to cause it to be
-    believed that the property or goods so marked, or any property or goods contained in any
-    such receptacle so marked, belong to a person to whom they do not belong, is said to use a
-    false property mark.
-    (3) Whoever uses any false property mark shall, unless he proves that he acted without
-    intent to defraud, be punished with imprisonment of either description for a term which may
-    extend to one year, or with fine, or with both.`;
-    else if (wt==='483') measure = `347. Counterfeiting
-    a property
-    mark. : (1) Whoever counterfeits any property mark used by any other person shall be
-    punished with imprisonment of either description for a term which may extend to two years,
-    or with fine, or with both.
-    (2) Whoever counterfeits any property mark used by a public servant, or any mark
-    used by a public servant to denote that any property has been manufactured by a particular
-    person or at a particular time or place, or that the property is of a particular quality or has
-    passed through a particular office, or that it is entitled to any exemption, or uses as genuine
-    any such mark knowing the same to be counterfeit, shall be punished with imprisonment of
-    either description for a term which may extend to three years, and shall also be liable to fine.`;
+    else if (wt==='479' ||wt==='481'||wt==='482') measure = `345. (1) A mark used for denoting that movable property belongs to a particular person is called a property mark. (2) Whoever marks any movable property or goods or any case, package or other receptacle containing movable property or goods, or uses any case, package or other receptacle having any mark thereon, in a manner reasonably calculated to cause it to be believed that the property or goods so marked, or any property or goods contained in any such receptacle so marked, belong to a person to whom they do not belong, is said to use a false property mark. (3) Whoever uses any false property mark shall, unless he proves that he acted without intent to defraud, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.`;
+    else if (wt==='483' ||wt==='484') measure = `347. (1) Whoever counterfeits any property mark used by any other person shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (2) Whoever counterfeits any property mark used by a public servant, or any mark used by a public servant to denote that any property has been manufactured by a particular person or at a particular time or place, or that the property is of a particular quality or has passed through a particular office, or that it is entitled to any exemption, or uses as genuine any such mark knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.`;
     else if (wt==='485') measure = `348. Making or
     possession of
     any instrument
@@ -5461,18 +5063,18 @@ years, and shall also be liable to fine.`;
     genuine coin to appear like a different coin; and
     (5) the offence of “counterfeiting coin” includes diminishing the weight or
     alteration of the composition, or alteration of the appearance of the coin.`;
-    else if (wt==='489b' || wt==='489B' ||wt==='260') measure = `179. Using as
-    genuine, forged
-    or counterfeit
-    coin,
-    Government
-    stamp,
-    currency-notes
-    or bank-notes.:  Whoever imports or exports, or sells or delivers to, or buys or receives from, any
-    other person, or otherwise traffics or uses as genuine, any forged or counterfeit coin, stamp,
-    currency-note or bank-note, knowing or having reason to believe the same to be forged or
-    counterfeit, shall be punished with imprisonment for life, or with imprisonment of either
-    description for a term which may extend to ten years, and shall also be liable to fine.`;
+    // else if (wt==='489b' || wt==='489B' ||wt==='260') measure = `179. Using as
+    // genuine, forged
+    // or counterfeit
+    // coin,
+    // Government
+    // stamp,
+    // currency-notes
+    // or bank-notes.:  Whoever imports or exports, or sells or delivers to, or buys or receives from, any
+    // other person, or otherwise traffics or uses as genuine, any forged or counterfeit coin, stamp,
+    // currency-note or bank-note, knowing or having reason to believe the same to be forged or
+    // counterfeit, shall be punished with imprisonment for life, or with imprisonment of either
+    // description for a term which may extend to ten years, and shall also be liable to fine.`;
     else if (wt==='489c' || wt==='489C' || wt==='259') measure = `180. Possession of
     forged or
     counterfeit
@@ -5543,26 +5145,7 @@ years, and shall also be liable to fine.`;
     believe that she is lawfully married to him and to cohabit or have sexual intercourse with him
     in that belief, shall be punished with imprisonment of either description for a term which may
     extend to ten years, and shall also be liable to fine`;
-    else if (wt==='494') measure = `82. Marrying
-    again during
-    lifetime of
-    husband or
-    wife : (1) Whoever, having a husband or wife living, marries in any case in which such
-    marriage is void by reason of its taking place during the life of such husband or wife, shall be
-    punished with imprisonment of either description for a term which may extend to seven
-    years, and shall also be liable to fine.
-    Exception.—This sub-section does not extend to any person whose marriage with
-    such husband or wife has been declared void by a Court of competent jurisdiction, nor to
-    any person who contracts a marriage during the life of a former husband or wife, if such
-    husband or wife, at the time of the subsequent marriage, shall have been continually absent from such person for the space of seven years, and shall not have been heard of by such
-    person as being alive within that time provided the person contracting such subsequent
-    marriage shall, before such marriage takes place, inform the person with whom such marriage
-    is contracted of the real state of facts so far as the same are within his or her knowledge.
-    (2) Whoever commits the offence under sub-section (1) having concealed from the
-    person with whom the subsequent marriage is contracted, the fact of the former marriage,
-    shall be punished with imprisonment of either description for a term which may extend to ten
-    years, and shall also be liable to fine.`;
-    
+    else if (wt==='494' ||wt==='495') measure = `82 . (1) Whoever, having a husband or wife living, marries in any case in which such marriage is void by reason of its taking place during the life of such husband or wife, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. Exception.—This sub-section does not extend to any person whose marriage with such husband or wife has been declared void by a Court of competent jurisdiction, nor to any person who contracts a marriage during the life of a former husband or wife, if such husband or wife, at the time of the subsequent marriage, shall have been continually absent from such person for the space of seven years, and shall not have been heard of by such person as being alive within that time provided the person contracting such subsequent marriage shall, before such marriage takes place, inform the person with whom such marriage is contracted of the real state of facts so far as the same are within his or her knowledge. (2) Whoever commits the offence under sub-section (1) having concealed from the person with whom the subsequent marriage is contracted, the fact of the former marriage, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.`;
     else if (wt==='496') measure = `83. Marriage
     ceremony
     fraudulently
